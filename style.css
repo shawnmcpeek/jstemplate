@@ -7,3 +7,9 @@ body {
     min-height: 100vh;
     background-color: dodgerblue;
 }
+
+h1 {
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
