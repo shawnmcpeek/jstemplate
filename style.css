@@ -13,3 +13,10 @@ h1 {
     color: white;
     padding: 20px;
 }
+
+.cinzel-font, h1, img {
+    font-family: "Cinzel", serif;
+    font-optical-sizing: auto;
+    font-weight: 400; /* Adjust the weight as needed */
+    font-style: normal;
+}
